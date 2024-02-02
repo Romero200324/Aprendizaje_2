@@ -18,6 +18,11 @@
 
 > git config --global --add safe.directory "Ruta del directorio"
 
+## Creacion de una huella de tipo "ssh" 
+> $ ssh-keygen -t ed25519 -C "oro0069074@gmail.com"
+
+## Inicio de seccion de git a GitHub
+> $ ssh -T git@github.com
 
 ### Nos permite ver el contenido de fichero:
 
@@ -209,8 +214,7 @@ if valor == "Oscar romero"
 elif valor == "Romero"
     print("Ese es tu apellido")
 ```
-``` java 
-// Comentario en java
+``` 
 ```
 
 

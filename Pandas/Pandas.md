@@ -45,18 +45,28 @@ Esto quiere decir que al momento de ejecutar el archivo lo tratara como una tabl
 # LLenados de datos en tablas de NAN
 > df.fillna("Nobre de la columna":numero, "Nombre de la columna":numero en que remplazar)
 
-# Filtrado de datos de una columna
+# Filtrado de datos de una solo una columna especifica
 > df["Nombre de la comlumna"]
 
 # Filtrar varias comlumnas 
 > df.[["Nombre de la comlumna 1", "Nombre de la comlumna 2"]]
 
-# Filtracion de las filas 
-> df.iloc[0]
+# Filtracion de las filas por numero de indice..
+> df.iloc[numero que quieres]
+
+#Creacion de un rago de valore de los indeces 
+> df.iloc[numero1: numero2] # Pero menos uno del numero final
+
+# Filtracion de filas y comulnas
+> df.loc[[Nombre_de_filas],["Columnas_esperadas"]]
+
+# Filtrado por condiciones..
+>df[df["nombre de la comlumna"]>23]
+
+#
 >
->
->
->
+
+#
 >
 >
 >
