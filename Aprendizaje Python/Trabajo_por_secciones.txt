@@ -1,0 +1,28 @@
+Meses que se tiene para presentación en Dicimbre del 2023 
+Agosto -
+Septiembre -
+Noviembre -
+Diciembre -
+
+Meses para las convocatoria del (MIT solve) que son en los meses de (Marzo, Abril,Mayo)
+
+FASETA 1:
+
+Investigacion de los elementos en común...
+
+
+
+
+
+Tecnologias que se van desempeñas : 
+
+-python 
+-jupyter
+
+Tiempo de ejecucion: 
+
+
+
+Desempeño de trabajo:
+
+
