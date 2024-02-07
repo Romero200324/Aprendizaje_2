@@ -78,6 +78,15 @@
 
 > touch helloword.py
 
+### Descargar y actualizacion de los dato de la nuve a local
+> git pull origin main
+
+
+### Comando para subir los archivos a la nuve de gtihub
+> git push original main
+? git push original main
+
+
 ### Limpieza la consola 
 
 > clear 

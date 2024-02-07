@@ -10,11 +10,13 @@
 
 - Deben de ser funcionales 
 
-<importacion de imagen de mapa de colore>
+![Imagenes](https://blog.datawrapper.de/wp-content/uploads/2021/01/rule6-copy-1024x435.png)
+
 
 ### En otra implementacion de los colores de en una grafica de pay
 
-<importacion de imagen de grafica de pay de colore>
+
+![imagen](https://blog.datawrapper.de/wp-content/uploads/2021/01/rule12-1024x435.png)
 
 ## > Color en un acecuado contexto 
 
@@ -31,7 +33,7 @@
 
 - Entre menos texto mejor
 
-<importacion de imagen de mucho texto en grafico>
+![imagenes](https://blog.datawrapper.de/wp-content/uploads/2021/01/contrast-copy-1024x435.png)
 
 
 ## COMPLEJIDAD
@@ -42,13 +44,13 @@
 
 -  Algo importen en tener encuenta es que "Entre mas complejidad = mas cuidado"
 
-<imgenen Diagrama de cuerdas + sunburst>
+![imagenes](https://blog.datawrapper.de/wp-content/uploads/2021/01/Artboard-89-copy-20-1024x470.png)
 
--
 
 <imagen Diagrama de pie>
 
-## Haciendo visualizaciones efectivas 
+## <span style="color:pink">Este texto será rojo.</span>
+
 
 - Ponernos en los zapatos de nuestra audiencia
 
