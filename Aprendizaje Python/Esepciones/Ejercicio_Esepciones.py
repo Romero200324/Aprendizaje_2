@@ -1,0 +1,3 @@
+# Ejercicios en donde se aplicaran las esepciones...
+
+# Tiempo en donde me quede en el video fue : 7:18:59 Minutos 

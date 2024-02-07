@@ -150,6 +150,25 @@
 
 > git config --global alias.nombre que eligamos "Comando de remplazara"
 
+## Ejecucion comprobacion a los GitHub
+
+> git push
+
+## La exportacion de datos la correcta ejecucion
+
+> git push -u origin main
+
+## La reconecion de para los datos de "GitHub"
+
+> git remote set-url origin <nueva-URL>
+
+## Correcta expulcion y subuida de datos para operacion 
+> git 
+
+
+
+
+
 
 ### LA INGNORACION DE FORMATOS QUE NO QUEREMOS MAS UTILIZAR JAMAS
 
