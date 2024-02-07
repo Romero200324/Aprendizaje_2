@@ -1,3 +1,4 @@
 import pandas as pd
 
-df = pd.read_csv("result.csv")
+archivo = pd.read_csv("")
+print(archivo)
