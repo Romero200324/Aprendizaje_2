@@ -23,3 +23,28 @@ Informacion de encotrar "La media", "Recta",""
 - 1. Exploracion y entendimiento 
 - 2. Comunicar Hallazgos 
 - 3. Guia para otro desarrollo
+
+
+## Datos Sensibles
+
+> Tener mucho mas cuidado con ciertos datos tales como pacientes de alguna enfermadad terminal y su direccion
+
+> Puede saber exactemente su lugar de residencia
+
+> Problemas legales
+
+## <span style="color:pink">> Visualizaciones alternativas que agrupen datos.</span>
+
+> Eliminar cualquier forma de registro individualaes
+
+![imganenes](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-tdSJsyD1wE4slie54KPduQcf9xCjqIzs4XxUEQsd9g&s) 
+
+## Agrupacion + Agregacion 
+
+> Tecnica con la que puedo lograr confidencialidad 
+
+![imagenes](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRua80ZMMN0iFrhhkRBJ20_cibdBzxnMCyfy4JEeQF1jA&s)
+
+> Tener en cuenta en que la informacion de dartos sencibles o privados debemos tener en cuneta para no cometer errores.
+
+
