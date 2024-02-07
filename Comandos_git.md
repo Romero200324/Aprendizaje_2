@@ -165,6 +165,10 @@
 
 >git diff
 
+### Para tomar la foto de todos los archivos es 
+
+> git add .
+
 
 ### PARA SABER LA UBICACION EXACTA DE DONDE NOS ENCONTRAMOS
 
