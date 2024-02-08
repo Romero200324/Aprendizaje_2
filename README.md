@@ -1,4 +1,11 @@
 # Aprendizaje de en ciencia de datos
+
+###   Y su implementacion de codigo tal cual sera orienta a ciencia de datos:
+
+![imagen](https://aprendeconalf.es/docencia/python/manual/img/pandas-logo.png)
+
+## Tal cual sea de la siguiente manera...
+
 ![imagen](https://blog.datawrapper.de/wp-content/uploads/2021/01/rule13-1024x353.png)
 
 ## Su implemetacion y sus variantes en contenido, Visualizacion y Dieño
