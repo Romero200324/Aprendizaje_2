@@ -18,7 +18,7 @@
 
 > git config --global --add safe.directory "Ruta del directorio"
 
-## Creacion de una huella de tipo "ssh" 
+## Creacion de una huella de tipo "ssh" en Windows 
 > $ ssh-keygen -t ed25519 -C "oro0069074@gmail.com"
 
 ## Inicio de seccion de git a GitHub
@@ -109,6 +109,10 @@
 ### Para tomar las fotos del codigo se implementara el codigo..
 
 > git add nombredelfichero
+
+### para guardar todo de un solo comando 
+
+> git add .
  
 
 ### REALIZACION DE YA DE LA FOTOGRAFIA DEL CODIGO
