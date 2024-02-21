@@ -30,4 +30,5 @@ Aquí hay algunos ejemplos prácticos para ayudarte a comprender mejor los conce
 - [Pandas](https://github.com/Romero200324/Aprendizaje_2/blob/main/Pandas/Pandas.md)
 - [Documentacion de Ciencia de datos](https://github.com/Romero200324/Aprendizaje_2/tree/main/Pandas/Documento_de_pandas_informacion)
 - [Libreta de trabajo](https://colab.research.google.com/drive/1XjEO-ZmuYkxlU2QqbmkI33uTlK098UIA)
+- [Capeta de aprendizaje](https://drive.google.com/drive/folders/1flbPSKxGLj4Wgqd9ftDYDs3d6IPWljaL?hl=es-419)
 
