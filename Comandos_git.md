@@ -7,6 +7,10 @@
 
 [***>>Mas comandos de (git)<<***](https://git-scm.com/doc)
 
+
+### Cambiar el nombre de la rema principal en git
+> git branch -m main
+
 ### Saber nuestra ubicacion:
 
 > ls / dir 
